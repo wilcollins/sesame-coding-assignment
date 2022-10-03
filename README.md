@@ -15,7 +15,7 @@ Welcome to Sesame’s coding challenge, in which you will build a Questing Platf
 
 **References**
 
-- Quest3 ([https://app.quest3.xyz/quest/686923348822728769](https://app.quest3.xyz/quest/686923348822728769)) can be used for reference for how the Join Discord flow and the verification should work. Feel free to use that as reference when designing your solution.
+- Quest3 ([https://app.quest3.xyz/quest/691059696896696692](https://app.quest3.xyz/quest/691059696896696692)) can be used for reference for how the Join Discord flow and the verification should work. Feel free to use that as reference when designing your solution.
 
 **Directions**
 
