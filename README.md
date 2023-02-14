@@ -46,4 +46,5 @@ Requirements
 - Code styling and linting
 - Documentation
 - Productionize
+- ci/cd pipelines
 - use [ethers-react](https://www.npmjs.com/package/ethers-react)
